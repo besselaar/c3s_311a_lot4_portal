@@ -3,7 +3,7 @@ error_reporting(E_ALL  & ~E_NOTICE);
 session_start();
 ?>
 <?php
-$webhost="/c3s_311a_lot4_knmi/";
+$webhost="/c3s_311a_lot4_portal/";
 $thispage=$_SERVER['PHP_SELF'];
 ?>
 

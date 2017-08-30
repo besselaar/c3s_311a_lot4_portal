@@ -3,7 +3,7 @@ error_reporting(E_ALL  & ~E_NOTICE);
 session_start();
 ?>
 <?php
-$webhost="/c3s_311a_lot4_knmi/";
+$webhost="/c3s_311a_lot4_portal/";
 ?>
 	  <div class="region region-sidebar-second col-xs-12 col-sm-12 col-md-4 col-lg-4 ">
 	    <div class="row-fluid">

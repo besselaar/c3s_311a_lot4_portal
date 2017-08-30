@@ -3,7 +3,7 @@ error_reporting(E_ALL  & ~E_NOTICE);
 session_start();
 ?>
 <?php
-$webhost="/c3s_311a_lot4_knmi/";
+$webhost="/c3s_311a_lot4_portal/";
 ?>
 
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans" />
