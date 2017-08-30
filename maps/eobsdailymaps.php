@@ -61,7 +61,7 @@ session_start();
 	      <div class="row-fluid">
 		
 		<!-- Breadcrum -->
-		<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="../surfgridobs.php">Home</a></span><span class="delimiter">»</span> <span class="inline even last"><a href="eobsdailymaps.php">E-OBS daily maps</a></span></div>
+		<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="../surfobs.php">Home</a></span><span class="delimiter">»</span> <span class="inline even last"><a href="eobsdailymaps.php">E-OBS daily maps</a></span></div>
 
 		<!-- Main part -->
 		<div id="block-system-main" class="block block-system col-xs-12 col-sm-12 col-md-12 col-lg-12 clearfix">

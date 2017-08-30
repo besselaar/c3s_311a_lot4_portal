@@ -62,7 +62,7 @@ $thispage=$_SERVER['PHP_SELF'];
 		<nav id="tb-menu-main-menu" class="nav-menu">
 		  <ul class="tb-menu main-menu" id="tb-menu-tb_menu_primary">
 		    <li class="menu-2138 menu-path-front first odd "><a href="<?php echo $webhost;?>/landingpage.htm" ><i class="fa fa-home" aria-hidden="true"></i><span><strong>C3S</strong></span></a></li>
-		    <li class="menu-2184 menuparent  menu-path-node-698  odd "><a href="<?php echo $webhost;?>/surfgridobs.php"><span><strong>Home</strong></span></a>
+		    <li class="menu-2184 menuparent  menu-path-node-698  odd "><a href="<?php echo $webhost;?>/surfobs.php"><span><strong>Home</strong></span></a>
 		    </li>
 		    <li class="menu-2184 menuparent  menu-path-node-698  odd "><a href="<?php echo $thispage;?>"><span><strong>Data</strong></span></a>
                      <ul>
