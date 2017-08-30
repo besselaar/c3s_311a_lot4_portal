@@ -3,7 +3,7 @@ error_reporting(E_ALL  & ~E_NOTICE);
 session_start();
 ?>
 <?php
-$webhost="/c3s_311a_lot4_knmi/";
+$webhost="/c3s_311a_lot4_portal/";
 $thispage=$_SERVER['PHP_SELF'];
 ?>
 
@@ -15,7 +15,7 @@ $thispage=$_SERVER['PHP_SELF'];
     <ul class="mmenu-mm-list-level-1">
       <li class="mmenu-mm-list-mlid-2138 mmenu-mm-list-path-front"><a href="<?php echo $webhost;?>/landingpage.htm" class="mmenu-mm-list "><i class="icon-home"></i><span class="mmenu-block-title">C3S</span></a>
       </li>
-      <li class="mmenu-mm-list-mlid-2151 mmenu-mm-list-path-node-571"><a href="<?php echo $webhost;?>/surfgridobs.php" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Home</span></a>
+      <li class="mmenu-mm-list-mlid-2151 mmenu-mm-list-path-node-571"><a href="<?php echo $webhost;?>/surfobs.php" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Home</span></a>
       </li>
       <li class="mmenu-mm-list-mlid-2184 mmenu-mm-list-path-node-698"><a href="<?php echo $thispage;?>" class="mmenu-mm-list "><i class="icon-list2"></i><span class="mmenu-block-title">Datasets</span></a>
        <ul class="mmenu-mm-list-level-2">
