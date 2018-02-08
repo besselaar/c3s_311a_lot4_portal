@@ -15,4 +15,3 @@
 * cd /var/www/html/c3s_311a_lot4_portal
 * git pull https://github.com/KNMI/c3s_311a_lot4_portal.git
 
-Test van Else
